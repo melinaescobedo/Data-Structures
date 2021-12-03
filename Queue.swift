@@ -68,7 +68,4 @@ public class Queue<AnyObject: Equatable> {
       print(object)
     }
   }
-
-
 }
-
